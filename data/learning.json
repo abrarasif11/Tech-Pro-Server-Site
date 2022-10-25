@@ -4,6 +4,7 @@
       "picture": "https://images.unsplash.com/photo-1587617425953-9075d28b8c46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cXVyYW58ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
       "name": "Quran Course",
       "course category" : "Islamic Category",
+      "duration" : "3 Months",
       "category id" : 1
     },
     {
@@ -11,6 +12,7 @@
       "picture": "https://images.unsplash.com/photo-1660927059794-152d06e11016?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8aWVsdHN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
       "name": "IELTS",
       "course category" : "Spoken Category",
+      "duration" : "4 Months",
       "category id" : 2
     },
     {
@@ -18,6 +20,7 @@
       "picture": "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8d2ViJTIwZGV2ZWxvcG1lbnR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
       "name": "Web Development",
       "course category" : "Development Category",
+      "duration" : "6 Months",
       "category id" : 3
 
     },
@@ -26,6 +29,7 @@
       "picture": "https://images.unsplash.com/photo-1626785774573-4b799315345d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Z3JhcGhpYyUyMGRlc2lnbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
       "name": "Graphics Design",
       "course category" : "Design Category",
+      "duration" : "8 Months",
       "category id" : 4
     },
     {
@@ -33,6 +37,7 @@
       "picture": "https://images.unsplash.com/photo-1556438064-2d7646166914?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Z2FtZSUyMGRldmVsb3BtZW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
       "name": "Game Development",
       "course category" : "Development Category",
+      "duration" : "5 Months",
       "category id" : 3
     },
     {
@@ -40,6 +45,7 @@
       "picture": "https://img.freepik.com/free-photo/medium-shot-man-typing-laptop_23-2149192119.jpg?w=740&t=st=1666675563~exp=1666676163~hmac=878c8719010e4f0695896acd6f469d9daa7e2c8de7bcab29d359b2b3665da328",
       "name": "Cyber Security",
       "course category" : "Networking Category",
+      "duration" : "3 Months",
       "category id" : 5
 
     }
