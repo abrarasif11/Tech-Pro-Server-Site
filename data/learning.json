@@ -2,31 +2,45 @@
     {
       "id": "6356b843ae541898361cc325",
       "picture": "https://images.unsplash.com/photo-1587617425953-9075d28b8c46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cXVyYW58ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-      "name": "Quran Course"
+      "name": "Quran Course",
+      "course category" : "Islamic Category",
+      "category id" : 1
     },
     {
       "id": "6356b84393096438bdf87e0b",
       "picture": "https://images.unsplash.com/photo-1660927059794-152d06e11016?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8aWVsdHN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-      "name": "IELTS"
+      "name": "IELTS",
+      "course category" : "Spoken Category",
+      "category id" : 2
     },
     {
       "id": "6356b843202ef74109badaca",
       "picture": "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8d2ViJTIwZGV2ZWxvcG1lbnR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-      "name": "Web Development"
+      "name": "Web Development",
+      "course category" : "Development Category",
+      "category id" : 3
+
     },
     {
       "id": "6356b8437aa952911eab0b02",
       "picture": "https://images.unsplash.com/photo-1626785774573-4b799315345d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Z3JhcGhpYyUyMGRlc2lnbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-      "name": "Graphics Design"
+      "name": "Graphics Design",
+      "course category" : "Design Category",
+      "category id" : 4
     },
     {
       "id": "6356b843e8b3ed774a7368a7",
       "picture": "https://images.unsplash.com/photo-1556438064-2d7646166914?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Z2FtZSUyMGRldmVsb3BtZW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-      "name": "Game Development"
+      "name": "Game Development",
+      "course category" : "Development Category",
+      "category id" : 3
     },
     {
       "id": "6356b84352a396698706b2f2",
       "picture": "https://img.freepik.com/free-photo/medium-shot-man-typing-laptop_23-2149192119.jpg?w=740&t=st=1666675563~exp=1666676163~hmac=878c8719010e4f0695896acd6f469d9daa7e2c8de7bcab29d359b2b3665da328",
-      "name": "Cyber Security"
+      "name": "Cyber Security",
+      "course category" : "Networking Category",
+      "category id" : 5
+
     }
   ]
